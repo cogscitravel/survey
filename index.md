@@ -31,7 +31,7 @@ We surveyed the following questions:
 * Additional attitudes about travel
 	* Desired travel for work relative to travel in 2019
 	* Desire for more/less travel
-	* **[Belief that the field should work toward sustainability](docs/belief.md)**
+	* **[Belief that the field should work toward sustainability](docs/beliefs.md)**
 	* Free response about the survey
 * **[Demographic information](docs/demographics.md)**
 	* Age (18-25, 25-35, 35-45, 45-55, 55+)

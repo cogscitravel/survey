@@ -17,7 +17,7 @@ The mode of transport that our respondents used depended strongly on the distanc
 
 | Figure 1: Distances traveled by modality | 
 | --- | 
-| ![](images/average_distances.png) |
+| ![](../images/average_distances.png) |
 
 
 ## Are there differences in transit across regions?
@@ -27,13 +27,13 @@ Colleagues wishing to attend a conference in Europe or North America, where the 
 
 | Figure 2A: Distances by region |
 | --- |
-| ![](images/distances_by_region_means.png) | 
+| ![](../images/distances_by_region_means.png) | 
 
 Given the differences in transit network connectivity and infrastructure across the world, we sought to understand how survey participants traveled. While plane travel was the dominant mode across the globe, we note that the distances traveled by European respondents also represented substantial train, bicycle, and boat travel that is absent among North American respondents.
 
 | Figure 2B: Modality by region |
 | --- |
-| ![](images/modality_by_region.png) |
+| ![](../images/modality_by_region.png) |
 
 
 ## Were respondents at different career stages using different modes of transportation to conferences?
@@ -57,7 +57,7 @@ Figure 3A shows the relationship between distances traveled by different career 
 
 | Figure 3A: Distance by career stage | 
 | ------------------------- |
-| ![](images/distances_by_career_means.png) |
+| ![](../images/distances_by_career_means.png) |
 | <small>NB: Response categories with fewer than 3 observations (Undergraduate student) were excluded from this analysis.</small> |
 
 
@@ -66,7 +66,7 @@ Figure 3B likewise shows the different modes of transportation that the responde
 
 | Figure 3B: Modality by career stage |
 | --- |
-| ![](images/modality_by_career.png) |
+| ![](../images/modality_by_career.png) |
 | <small>NB: Response categories with fewer than 3 observations (Undergraduate student) were excluded from this analysis.</small> |
 
 

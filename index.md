@@ -2,7 +2,7 @@
 
 From March 2020 to June 2020, we surveyed cognitive scientists' (N=489) attitudes toward different conference formats and policy changes. Respondants were recruited from mailing lists such as Cognitive Science Society, AMLaP, Linguist List, and social media (Twitter). Respondants represent all levels of seniority, from undergraduate students to tenured faculty from across the globe.
 
-Through this work we aimed to identify how to move forward in cognitive science in a more carbon neutral way, while also improving equity and accessibility in the field. You may read our letter at [its psyarxiv preprint link]().
+Through this work we aimed to identify how to move forward in cognitive science in a more carbon neutral way, while also improving equity and accessibility in the field. You may read our letter at [its OSF preprint link](https://osf.io/3rhbw/).
 
 We surveyed the following questions:
 
